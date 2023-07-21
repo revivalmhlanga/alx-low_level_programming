@@ -28,4 +28,4 @@ int main(void)
 	printf("%1d\n", prime);
 
 	return (0);
-
+}
