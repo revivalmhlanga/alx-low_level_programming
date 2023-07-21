@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * print_most_numbers - func checks for checks for a digit (0 through 9).
+ * print_most_numbers - func checks for a digit (0 through 9).
  *
  * Return: 0
- */void print_most_numbers(void)
+ */
+void print_most_numbers(void)
 {
 	int c;
 
