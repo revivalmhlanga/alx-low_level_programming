@@ -14,11 +14,11 @@ void print_rev(char *s)
 		long++;
 		s++;
 	}
-	s--;
-	for (o = longi; o > 0; o--)
+	S--;
+	for (o = longi; o > 0; O--)
 	{
-		putchar(*s);
-		s--;
+		_putchar(*s);
+		S--;
 	}
-	putchar('\n');
+	_putchar('\n');
 }
